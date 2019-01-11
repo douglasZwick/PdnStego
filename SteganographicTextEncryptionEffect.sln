@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{7561ed18-f87e-4557-96e6-e3e5fc8c7ef0}") = "SteganographicTextEncryptionEffect", "SteganographicTextEncryptionEffect\SteganographicTextEncryptionEffect.csproj", "{534c66b2-4851-427e-8cca-f02131f73354}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{534c66b2-4851-427e-8cca-f02131f73354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{534c66b2-4851-427e-8cca-f02131f73354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{534c66b2-4851-427e-8cca-f02131f73354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{534c66b2-4851-427e-8cca-f02131f73354}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37254757-6a93-4e2a-88a1-7fee742b1d54}
+	EndGlobalSection
+EndGlobal
