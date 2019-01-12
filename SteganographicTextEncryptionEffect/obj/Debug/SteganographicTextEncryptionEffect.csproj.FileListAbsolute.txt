@@ -1,0 +1,2 @@
+C:\Users\RnD User\Desktop\Doug's Stuff\PdnStego\SteganographicTextEncryptionEffect\obj\Debug\SteganographicTextEncryptionEffect.csprojAssemblyReference.cache
+C:\Users\RnD User\Desktop\Doug's Stuff\PdnStego\SteganographicTextEncryptionEffect\obj\Debug\SteganographicTextEncryptionEffect.csproj.CoreCompileInputs.cache
